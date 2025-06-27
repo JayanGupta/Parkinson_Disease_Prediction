@@ -66,3 +66,7 @@ This document tracks engineering milestones, experiment logs, parameter optimiza
 - **Focus**: refactor: optimize SVM kernel parameter tuning
 - **Technical Summary**: Configured RBF kernel with C=10.0, gamma=0.01 via GridSearchCV.
 
+### Milestone Log - 2025-06-27 (14:38)
+- **Focus**: docs: update vocal biomedical measurement feature ranking
+- **Technical Summary**: Ranked MDVP:Jitter, Shimmer, and HNR features for motor symptom prediction.
+
