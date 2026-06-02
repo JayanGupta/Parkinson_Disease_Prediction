@@ -13,21 +13,6 @@
 
 ---
 
-## Table of Contents
-
-- [Background](#background)
-- [Dataset](#dataset)
-- [Project Structure](#project-structure)
-- [Installation](#installation)
-- [Methodology](#methodology)
-- [Models & Results](#models--results)
-- [Usage](#usage)
-- [Future Work](#future-work)
-- [Contributing](#contributing)
-- [License](#license)
-
----
-
 ## Background
 
 Parkinson's Disease (PD) is a progressive neurological disorder affecting motor control. Early-stage diagnosis remains clinically challenging. Research has shown that sustained phonation and connected speech yield measurable acoustic irregularities in PD patients — enabling non-invasive, data-driven screening.
